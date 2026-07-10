@@ -33,7 +33,7 @@
 - Factorial Program
 - Wrapper Class in Java
 - Calculator Program in LWC
-- Car Poject in LWC
+- Car Project in LWC (Already Uploaded on Linkedin)
   
 
 ## 📫 Connect with me
